@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(login));
             lblEmail = new Label();
             lblSenha = new Label();
             txtEmail = new TextBox();
@@ -38,6 +39,7 @@
             // lblEmail
             // 
             lblEmail.AutoSize = true;
+            lblEmail.BackColor = Color.Transparent;
             lblEmail.Location = new Point(50, 173);
             lblEmail.Name = "lblEmail";
             lblEmail.Size = new Size(41, 15);
@@ -47,6 +49,7 @@
             // lblSenha
             // 
             lblSenha.AutoSize = true;
+            lblSenha.BackColor = Color.Transparent;
             lblSenha.Location = new Point(50, 217);
             lblSenha.Name = "lblSenha";
             lblSenha.Size = new Size(45, 15);
@@ -66,6 +69,7 @@
             txtSenha.Location = new Point(131, 217);
             txtSenha.Margin = new Padding(3, 2, 3, 2);
             txtSenha.Name = "txtSenha";
+            txtSenha.PasswordChar = '*';
             txtSenha.Size = new Size(110, 23);
             txtSenha.TabIndex = 3;
             // 
@@ -84,6 +88,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(284, 361);
             Controls.Add(btnLogin);
             Controls.Add(txtSenha);
@@ -92,6 +97,7 @@
             Controls.Add(lblEmail);
             Margin = new Padding(3, 2, 3, 2);
             Name = "login";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "login";
             Load += login_Load;
             ResumeLayout(false);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FredPup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c8aec1f95c72fd2061f3760c68da42a2349c273")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eace1cf2190bea92aa574c3871a991ab918f8ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("FredPup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FredPup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

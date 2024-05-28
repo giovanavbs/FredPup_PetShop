@@ -66,20 +66,21 @@
             // cmbTamanho
             // 
             cmbTamanho.FormattingEnabled = true;
-            cmbTamanho.Location = new Point(42, 19);
+            cmbTamanho.Location = new Point(27, 61);
             cmbTamanho.Margin = new Padding(3, 2, 3, 2);
             cmbTamanho.Name = "cmbTamanho";
-            cmbTamanho.Size = new Size(133, 23);
+            cmbTamanho.Size = new Size(148, 23);
             cmbTamanho.TabIndex = 0;
             cmbTamanho.Text = "TAMANHO DA RAÇÃO";
             // 
             // grpSabores
             // 
+            grpSabores.BackColor = Color.Transparent;
             grpSabores.Controls.Add(chkVegetais);
             grpSabores.Controls.Add(chkAmbos);
             grpSabores.Controls.Add(chkCarne);
             grpSabores.Controls.Add(chkFrango);
-            grpSabores.Location = new Point(10, 54);
+            grpSabores.Location = new Point(13, 96);
             grpSabores.Margin = new Padding(3, 2, 3, 2);
             grpSabores.Name = "grpSabores";
             grpSabores.Padding = new Padding(3, 2, 3, 2);
@@ -136,7 +137,8 @@
             // lblPesquisar
             // 
             lblPesquisar.AutoSize = true;
-            lblPesquisar.Location = new Point(469, 302);
+            lblPesquisar.BackColor = Color.Transparent;
+            lblPesquisar.Location = new Point(485, 413);
             lblPesquisar.Name = "lblPesquisar";
             lblPesquisar.Size = new Size(60, 15);
             lblPesquisar.TabIndex = 2;
@@ -144,7 +146,7 @@
             // 
             // txtPesquisar
             // 
-            txtPesquisar.Location = new Point(548, 299);
+            txtPesquisar.Location = new Point(551, 410);
             txtPesquisar.Margin = new Padding(3, 2, 3, 2);
             txtPesquisar.Name = "txtPesquisar";
             txtPesquisar.Size = new Size(110, 23);
@@ -154,18 +156,18 @@
             // dgv_Racao
             // 
             dgv_Racao.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgv_Racao.Location = new Point(10, 176);
+            dgv_Racao.Location = new Point(13, 230);
             dgv_Racao.Margin = new Padding(3, 2, 3, 2);
             dgv_Racao.Name = "dgv_Racao";
             dgv_Racao.RowHeadersWidth = 51;
-            dgv_Racao.Size = new Size(654, 110);
+            dgv_Racao.Size = new Size(654, 139);
             dgv_Racao.TabIndex = 4;
             dgv_Racao.CellContentClick += dgv_Racao_CellContentClick;
             // 
             // cmbMarca
             // 
             cmbMarca.FormattingEnabled = true;
-            cmbMarca.Location = new Point(193, 19);
+            cmbMarca.Location = new Point(196, 61);
             cmbMarca.Margin = new Padding(3, 2, 3, 2);
             cmbMarca.Name = "cmbMarca";
             cmbMarca.Size = new Size(133, 23);
@@ -174,7 +176,7 @@
             // 
             // txtTotal
             // 
-            txtTotal.Location = new Point(484, 140);
+            txtTotal.Location = new Point(487, 182);
             txtTotal.Margin = new Padding(3, 2, 3, 2);
             txtTotal.Name = "txtTotal";
             txtTotal.Size = new Size(110, 23);
@@ -183,7 +185,8 @@
             // lblTotal
             // 
             lblTotal.AutoSize = true;
-            lblTotal.Location = new Point(484, 122);
+            lblTotal.BackColor = Color.Transparent;
+            lblTotal.Location = new Point(487, 164);
             lblTotal.Name = "lblTotal";
             lblTotal.Size = new Size(93, 15);
             lblTotal.TabIndex = 8;
@@ -191,10 +194,10 @@
             // 
             // btnNovo
             // 
-            btnNovo.Location = new Point(14, 299);
+            btnNovo.Location = new Point(23, 397);
             btnNovo.Margin = new Padding(3, 2, 3, 2);
             btnNovo.Name = "btnNovo";
-            btnNovo.Size = new Size(82, 22);
+            btnNovo.Size = new Size(83, 36);
             btnNovo.TabIndex = 10;
             btnNovo.Text = "NOVO";
             btnNovo.UseVisualStyleBackColor = true;
@@ -202,10 +205,10 @@
             // 
             // btnCalcular
             // 
-            btnCalcular.Location = new Point(119, 299);
+            btnCalcular.Location = new Point(128, 397);
             btnCalcular.Margin = new Padding(3, 2, 3, 2);
             btnCalcular.Name = "btnCalcular";
-            btnCalcular.Size = new Size(82, 22);
+            btnCalcular.Size = new Size(84, 36);
             btnCalcular.TabIndex = 11;
             btnCalcular.Text = "CALCULAR";
             btnCalcular.UseVisualStyleBackColor = true;
@@ -213,10 +216,10 @@
             // 
             // btnSalvar
             // 
-            btnSalvar.Location = new Point(233, 299);
+            btnSalvar.Location = new Point(242, 397);
             btnSalvar.Margin = new Padding(3, 2, 3, 2);
             btnSalvar.Name = "btnSalvar";
-            btnSalvar.Size = new Size(82, 22);
+            btnSalvar.Size = new Size(87, 36);
             btnSalvar.TabIndex = 12;
             btnSalvar.Text = "SALVAR";
             btnSalvar.UseVisualStyleBackColor = true;
@@ -224,10 +227,10 @@
             // 
             // btnSair
             // 
-            btnSair.Location = new Point(351, 299);
+            btnSair.Location = new Point(360, 397);
             btnSair.Margin = new Padding(3, 2, 3, 2);
             btnSair.Name = "btnSair";
-            btnSair.Size = new Size(82, 22);
+            btnSair.Size = new Size(80, 36);
             btnSair.TabIndex = 13;
             btnSair.Text = "SAIR";
             btnSair.UseVisualStyleBackColor = true;
@@ -235,7 +238,7 @@
             // 
             // txtSabor
             // 
-            txtSabor.Location = new Point(408, 36);
+            txtSabor.Location = new Point(411, 78);
             txtSabor.Margin = new Padding(3, 2, 3, 2);
             txtSabor.Name = "txtSabor";
             txtSabor.Size = new Size(110, 23);
@@ -244,7 +247,8 @@
             // lblSabor
             // 
             lblSabor.AutoSize = true;
-            lblSabor.Location = new Point(400, 19);
+            lblSabor.BackColor = Color.Transparent;
+            lblSabor.Location = new Point(403, 61);
             lblSabor.Name = "lblSabor";
             lblSabor.Size = new Size(106, 15);
             lblSabor.TabIndex = 14;
@@ -252,7 +256,7 @@
             // 
             // txtMarca
             // 
-            txtMarca.Location = new Point(408, 86);
+            txtMarca.Location = new Point(411, 128);
             txtMarca.Margin = new Padding(3, 2, 3, 2);
             txtMarca.Name = "txtMarca";
             txtMarca.Size = new Size(110, 23);
@@ -261,7 +265,8 @@
             // lblMarca
             // 
             lblMarca.AutoSize = true;
-            lblMarca.Location = new Point(400, 69);
+            lblMarca.BackColor = Color.Transparent;
+            lblMarca.Location = new Point(403, 111);
             lblMarca.Name = "lblMarca";
             lblMarca.Size = new Size(110, 15);
             lblMarca.TabIndex = 18;
@@ -269,7 +274,7 @@
             // 
             // txtTamanho
             // 
-            txtTamanho.Location = new Point(556, 36);
+            txtTamanho.Location = new Point(559, 78);
             txtTamanho.Margin = new Padding(3, 2, 3, 2);
             txtTamanho.Name = "txtTamanho";
             txtTamanho.Size = new Size(110, 23);
@@ -278,7 +283,8 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(548, 19);
+            label1.BackColor = Color.Transparent;
+            label1.Location = new Point(551, 61);
             label1.Name = "label1";
             label1.Size = new Size(128, 15);
             label1.TabIndex = 20;
@@ -286,11 +292,12 @@
             // 
             // grpAnimal
             // 
+            grpAnimal.BackColor = Color.Transparent;
             grpAnimal.Controls.Add(chkPassaro);
             grpAnimal.Controls.Add(chkCoelho);
             grpAnimal.Controls.Add(chkGato);
             grpAnimal.Controls.Add(chkCachorro);
-            grpAnimal.Location = new Point(214, 54);
+            grpAnimal.Location = new Point(217, 96);
             grpAnimal.Margin = new Padding(3, 2, 3, 2);
             grpAnimal.Name = "grpAnimal";
             grpAnimal.Padding = new Padding(3, 2, 3, 2);
@@ -345,7 +352,7 @@
             // 
             // txtAnimal
             // 
-            txtAnimal.Location = new Point(556, 86);
+            txtAnimal.Location = new Point(559, 128);
             txtAnimal.Margin = new Padding(3, 2, 3, 2);
             txtAnimal.Name = "txtAnimal";
             txtAnimal.Size = new Size(110, 23);
@@ -354,7 +361,8 @@
             // lblAnimal
             // 
             lblAnimal.AutoSize = true;
-            lblAnimal.Location = new Point(548, 69);
+            lblAnimal.BackColor = Color.Transparent;
+            lblAnimal.Location = new Point(551, 111);
             lblAnimal.Name = "lblAnimal";
             lblAnimal.Size = new Size(94, 15);
             lblAnimal.TabIndex = 22;
@@ -373,7 +381,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(700, 338);
+            BackgroundImage = Properties.Resources.background;
+            ClientSize = new Size(684, 461);
             Controls.Add(CodRacao);
             Controls.Add(txtAnimal);
             Controls.Add(lblAnimal);
@@ -398,6 +407,7 @@
             Controls.Add(cmbTamanho);
             Margin = new Padding(3, 2, 3, 2);
             Name = "Racao";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Racao";
             Load += Racao_Load;
             grpSabores.ResumeLayout(false);

@@ -44,15 +44,13 @@
             txtPesquisar = new TextBox();
             lblPesquisar = new Label();
             txtCodCli = new TextBox();
-            dataGridView1 = new DataGridView();
             ((System.ComponentModel.ISupportInitialize)picImage).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dgvCliente).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // btnNovo
             // 
-            btnNovo.Location = new Point(117, 372);
+            btnNovo.Location = new Point(112, 392);
             btnNovo.Margin = new Padding(4);
             btnNovo.Name = "btnNovo";
             btnNovo.Size = new Size(88, 46);
@@ -64,7 +62,8 @@
             // lblEmail
             // 
             lblEmail.AutoSize = true;
-            lblEmail.Location = new Point(123, 106);
+            lblEmail.BackColor = Color.Transparent;
+            lblEmail.Location = new Point(118, 126);
             lblEmail.Margin = new Padding(4, 0, 4, 0);
             lblEmail.Name = "lblEmail";
             lblEmail.Size = new Size(44, 15);
@@ -73,7 +72,7 @@
             // 
             // picImage
             // 
-            picImage.Location = new Point(494, 56);
+            picImage.Location = new Point(489, 76);
             picImage.Margin = new Padding(4);
             picImage.Name = "picImage";
             picImage.Size = new Size(116, 124);
@@ -83,7 +82,7 @@
             // dgvCliente
             // 
             dgvCliente.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvCliente.Location = new Point(111, 244);
+            dgvCliente.Location = new Point(106, 264);
             dgvCliente.Margin = new Padding(4);
             dgvCliente.Name = "dgvCliente";
             dgvCliente.RowHeadersWidth = 51;
@@ -93,7 +92,7 @@
             // 
             // btnSalvar
             // 
-            btnSalvar.Location = new Point(223, 372);
+            btnSalvar.Location = new Point(218, 392);
             btnSalvar.Margin = new Padding(4);
             btnSalvar.Name = "btnSalvar";
             btnSalvar.Size = new Size(88, 46);
@@ -104,7 +103,7 @@
             // 
             // btnALterar
             // 
-            btnALterar.Location = new Point(334, 372);
+            btnALterar.Location = new Point(329, 392);
             btnALterar.Margin = new Padding(4);
             btnALterar.Name = "btnALterar";
             btnALterar.Size = new Size(88, 46);
@@ -115,7 +114,7 @@
             // 
             // btnEcluir
             // 
-            btnEcluir.Location = new Point(443, 372);
+            btnEcluir.Location = new Point(438, 392);
             btnEcluir.Margin = new Padding(4);
             btnEcluir.Name = "btnEcluir";
             btnEcluir.Size = new Size(88, 46);
@@ -126,7 +125,7 @@
             // 
             // brnCarregar
             // 
-            brnCarregar.Location = new Point(494, 182);
+            brnCarregar.Location = new Point(489, 202);
             brnCarregar.Margin = new Padding(4);
             brnCarregar.Name = "brnCarregar";
             brnCarregar.Size = new Size(116, 26);
@@ -137,7 +136,7 @@
             // 
             // txtEmail
             // 
-            txtEmail.Location = new Point(196, 99);
+            txtEmail.Location = new Point(191, 119);
             txtEmail.Margin = new Padding(4);
             txtEmail.Name = "txtEmail";
             txtEmail.Size = new Size(197, 23);
@@ -145,7 +144,7 @@
             // 
             // txtTelefone
             // 
-            txtTelefone.Location = new Point(196, 146);
+            txtTelefone.Location = new Point(191, 166);
             txtTelefone.Margin = new Padding(4);
             txtTelefone.Name = "txtTelefone";
             txtTelefone.Size = new Size(197, 23);
@@ -154,7 +153,8 @@
             // lblTelefone
             // 
             lblTelefone.AutoSize = true;
-            lblTelefone.Location = new Point(123, 154);
+            lblTelefone.BackColor = Color.Transparent;
+            lblTelefone.Location = new Point(118, 174);
             lblTelefone.Margin = new Padding(4, 0, 4, 0);
             lblTelefone.Name = "lblTelefone";
             lblTelefone.Size = new Size(61, 15);
@@ -163,7 +163,7 @@
             // 
             // txtNome
             // 
-            txtNome.Location = new Point(196, 59);
+            txtNome.Location = new Point(191, 79);
             txtNome.Margin = new Padding(4);
             txtNome.Name = "txtNome";
             txtNome.Size = new Size(197, 23);
@@ -172,7 +172,8 @@
             // lblNome
             // 
             lblNome.AutoSize = true;
-            lblNome.Location = new Point(123, 62);
+            lblNome.BackColor = Color.Transparent;
+            lblNome.Location = new Point(118, 82);
             lblNome.Margin = new Padding(4, 0, 4, 0);
             lblNome.Name = "lblNome";
             lblNome.Size = new Size(45, 15);
@@ -181,7 +182,7 @@
             // 
             // txtPesquisar
             // 
-            txtPesquisar.Location = new Point(277, 203);
+            txtPesquisar.Location = new Point(272, 223);
             txtPesquisar.Margin = new Padding(4);
             txtPesquisar.Name = "txtPesquisar";
             txtPesquisar.Size = new Size(116, 23);
@@ -191,7 +192,8 @@
             // lblPesquisar
             // 
             lblPesquisar.AutoSize = true;
-            lblPesquisar.Location = new Point(186, 211);
+            lblPesquisar.BackColor = Color.Transparent;
+            lblPesquisar.Location = new Point(181, 231);
             lblPesquisar.Margin = new Padding(4, 0, 4, 0);
             lblPesquisar.Name = "lblPesquisar";
             lblPesquisar.Size = new Size(70, 15);
@@ -200,28 +202,19 @@
             // 
             // txtCodCli
             // 
-            txtCodCli.Location = new Point(-2, 497);
+            txtCodCli.Location = new Point(-1, -5);
             txtCodCli.Margin = new Padding(4);
             txtCodCli.Name = "txtCodCli";
             txtCodCli.ReadOnly = true;
             txtCodCli.Size = new Size(10, 23);
             txtCodCli.TabIndex = 18;
             // 
-            // dataGridView1
-            // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(393, 425);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(187, 50);
-            dataGridView1.TabIndex = 19;
-            dataGridView1.CellMouseDoubleClick += dataGridView1_CellMouseDoubleClick;
-            // 
             // Cliente
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(668, 516);
-            Controls.Add(dataGridView1);
+            BackgroundImage = Properties.Resources.background;
+            ClientSize = new Size(700, 500);
             Controls.Add(txtCodCli);
             Controls.Add(lblPesquisar);
             Controls.Add(txtPesquisar);
@@ -241,11 +234,11 @@
             FormBorderStyle = FormBorderStyle.None;
             Margin = new Padding(4);
             Name = "Cliente";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Cliente";
             Load += Cliente_Load;
             ((System.ComponentModel.ISupportInitialize)picImage).EndInit();
             ((System.ComponentModel.ISupportInitialize)dgvCliente).EndInit();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -268,6 +261,5 @@
         private System.Windows.Forms.TextBox txtPesquisar;
         private System.Windows.Forms.Label lblPesquisar;
         private System.Windows.Forms.TextBox txtCodCli;
-        private DataGridView dataGridView1;
     }
 }

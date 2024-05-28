@@ -104,3 +104,4 @@ C:\Users\3ds\Source\Repos\FredPup_PetShop\FredPup\obj\Debug\net8.0-windows\refin
 C:\Users\3ds\Source\Repos\FredPup_PetShop\FredPup\obj\Debug\net8.0-windows\FredPup.pdb
 C:\Users\3ds\Source\Repos\FredPup_PetShop\FredPup\obj\Debug\net8.0-windows\FredPup.genruntimeconfig.cache
 C:\Users\3ds\Source\Repos\FredPup_PetShop\FredPup\obj\Debug\net8.0-windows\ref\FredPup.dll
+C:\Users\3ds\Source\Repos\FredPup_PetShop\FredPup\obj\Debug\net8.0-windows\FredPup.Properties.Resources.resources

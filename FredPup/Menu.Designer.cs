@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Menu));
             pnMenu = new Panel();
             btnRacao = new Button();
             btnPotes = new Button();
@@ -46,7 +47,7 @@
             pnMenu.Location = new Point(4, 3);
             pnMenu.Margin = new Padding(4);
             pnMenu.Name = "pnMenu";
-            pnMenu.Size = new Size(155, 485);
+            pnMenu.Size = new Size(155, 500);
             pnMenu.TabIndex = 0;
             // 
             // btnRacao
@@ -98,17 +99,18 @@
             // pnConteudo
             // 
             pnConteudo.BackColor = SystemColors.ButtonHighlight;
+            pnConteudo.BackgroundImage = (Image)resources.GetObject("pnConteudo.BackgroundImage");
             pnConteudo.Location = new Point(166, 3);
             pnConteudo.Margin = new Padding(4);
             pnConteudo.Name = "pnConteudo";
-            pnConteudo.Size = new Size(735, 485);
+            pnConteudo.Size = new Size(700, 500);
             pnConteudo.TabIndex = 1;
             // 
             // Menu
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(902, 491);
+            ClientSize = new Size(867, 507);
             Controls.Add(pnConteudo);
             Controls.Add(pnMenu);
             Margin = new Padding(4);

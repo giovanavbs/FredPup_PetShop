@@ -278,7 +278,7 @@ namespace FredPup
             {
                 try
                 {
-                    // EXCLUI DO BANCO DE DADOS
+
                     MySqlCommand cmd = new MySqlCommand();
                     con.ConnectarBD();
                     cmd.CommandText = "delete from tbCliente where CodCli= " + txtCodCli.Text;

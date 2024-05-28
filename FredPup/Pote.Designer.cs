@@ -58,7 +58,7 @@
             // cmbTamanho
             // 
             cmbTamanho.FormattingEnabled = true;
-            cmbTamanho.Location = new Point(79, 50);
+            cmbTamanho.Location = new Point(20, 47);
             cmbTamanho.Margin = new Padding(3, 2, 3, 2);
             cmbTamanho.Name = "cmbTamanho";
             cmbTamanho.Size = new Size(133, 23);
@@ -68,6 +68,7 @@
             // chkRed
             // 
             chkRed.AutoSize = true;
+            chkRed.BackgroundImage = Properties.Resources.background;
             chkRed.Location = new Point(14, 20);
             chkRed.Margin = new Padding(3, 2, 3, 2);
             chkRed.Name = "chkRed";
@@ -79,6 +80,7 @@
             // chkBlue
             // 
             chkBlue.AutoSize = true;
+            chkBlue.BackgroundImage = Properties.Resources.background;
             chkBlue.Location = new Point(11, 43);
             chkBlue.Margin = new Padding(3, 2, 3, 2);
             chkBlue.Name = "chkBlue";
@@ -90,6 +92,7 @@
             // chkGreen
             // 
             chkGreen.AutoSize = true;
+            chkGreen.BackgroundImage = Properties.Resources.background;
             chkGreen.Location = new Point(11, 64);
             chkGreen.Margin = new Padding(3, 2, 3, 2);
             chkGreen.Name = "chkGreen";
@@ -101,6 +104,7 @@
             // chkBlack
             // 
             chkBlack.AutoSize = true;
+            chkBlack.BackgroundImage = Properties.Resources.background;
             chkBlack.Location = new Point(11, 87);
             chkBlack.Margin = new Padding(3, 2, 3, 2);
             chkBlack.Name = "chkBlack";
@@ -111,11 +115,13 @@
             // 
             // grpCores
             // 
+            grpCores.BackColor = Color.White;
+            grpCores.BackgroundImage = Properties.Resources.background;
             grpCores.Controls.Add(chkBlack);
             grpCores.Controls.Add(chkGreen);
             grpCores.Controls.Add(chkBlue);
             grpCores.Controls.Add(chkRed);
-            grpCores.Location = new Point(25, 87);
+            grpCores.Location = new Point(9, 92);
             grpCores.Margin = new Padding(3, 2, 3, 2);
             grpCores.Name = "grpCores";
             grpCores.Padding = new Padding(3, 2, 3, 2);
@@ -128,7 +134,8 @@
             // lblPesquisar
             // 
             lblPesquisar.AutoSize = true;
-            lblPesquisar.Location = new Point(481, 368);
+            lblPesquisar.BackColor = Color.Transparent;
+            lblPesquisar.Location = new Point(465, 387);
             lblPesquisar.Name = "lblPesquisar";
             lblPesquisar.Size = new Size(60, 15);
             lblPesquisar.TabIndex = 26;
@@ -136,7 +143,7 @@
             // 
             // txtPesquisar
             // 
-            txtPesquisar.Location = new Point(560, 365);
+            txtPesquisar.Location = new Point(544, 384);
             txtPesquisar.Margin = new Padding(3, 2, 3, 2);
             txtPesquisar.Name = "txtPesquisar";
             txtPesquisar.Size = new Size(110, 23);
@@ -146,7 +153,7 @@
             // dgv_Racao
             // 
             dgv_Racao.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgv_Racao.Location = new Point(25, 209);
+            dgv_Racao.Location = new Point(9, 214);
             dgv_Racao.Margin = new Padding(3, 2, 3, 2);
             dgv_Racao.Name = "dgv_Racao";
             dgv_Racao.RowHeadersWidth = 51;
@@ -157,7 +164,8 @@
             // lblTotal
             // 
             lblTotal.AutoSize = true;
-            lblTotal.Location = new Point(593, 50);
+            lblTotal.BackColor = Color.Transparent;
+            lblTotal.Location = new Point(579, 92);
             lblTotal.Name = "lblTotal";
             lblTotal.Size = new Size(93, 15);
             lblTotal.TabIndex = 31;
@@ -165,18 +173,18 @@
             // 
             // txtTotal
             // 
-            txtTotal.Location = new Point(593, 68);
+            txtTotal.Location = new Point(577, 112);
             txtTotal.Margin = new Padding(3, 2, 3, 2);
             txtTotal.Name = "txtTotal";
-            txtTotal.Size = new Size(110, 23);
+            txtTotal.Size = new Size(105, 23);
             txtTotal.TabIndex = 32;
             // 
             // btnNovo
             // 
-            btnNovo.Location = new Point(26, 365);
+            btnNovo.Location = new Point(10, 370);
             btnNovo.Margin = new Padding(3, 2, 3, 2);
             btnNovo.Name = "btnNovo";
-            btnNovo.Size = new Size(82, 22);
+            btnNovo.Size = new Size(89, 37);
             btnNovo.TabIndex = 33;
             btnNovo.Text = "NOVO";
             btnNovo.UseVisualStyleBackColor = true;
@@ -184,10 +192,10 @@
             // 
             // btnCalcular
             // 
-            btnCalcular.Location = new Point(131, 365);
+            btnCalcular.Location = new Point(115, 370);
             btnCalcular.Margin = new Padding(3, 2, 3, 2);
             btnCalcular.Name = "btnCalcular";
-            btnCalcular.Size = new Size(82, 22);
+            btnCalcular.Size = new Size(93, 37);
             btnCalcular.TabIndex = 34;
             btnCalcular.Text = "CALCULAR";
             btnCalcular.UseVisualStyleBackColor = true;
@@ -195,10 +203,10 @@
             // 
             // btnSalvar
             // 
-            btnSalvar.Location = new Point(244, 365);
+            btnSalvar.Location = new Point(228, 370);
             btnSalvar.Margin = new Padding(3, 2, 3, 2);
             btnSalvar.Name = "btnSalvar";
-            btnSalvar.Size = new Size(82, 22);
+            btnSalvar.Size = new Size(82, 37);
             btnSalvar.TabIndex = 35;
             btnSalvar.Text = "SALVAR";
             btnSalvar.UseVisualStyleBackColor = true;
@@ -206,10 +214,10 @@
             // 
             // btnSair
             // 
-            btnSair.Location = new Point(363, 365);
+            btnSair.Location = new Point(333, 370);
             btnSair.Margin = new Padding(3, 2, 3, 2);
             btnSair.Name = "btnSair";
-            btnSair.Size = new Size(82, 22);
+            btnSair.Size = new Size(83, 37);
             btnSair.TabIndex = 36;
             btnSair.Text = "SAIR";
             btnSair.UseVisualStyleBackColor = true;
@@ -218,7 +226,8 @@
             // lblSabor
             // 
             lblSabor.AutoSize = true;
-            lblSabor.Location = new Point(438, 152);
+            lblSabor.BackColor = Color.Transparent;
+            lblSabor.Location = new Point(436, 153);
             lblSabor.Name = "lblSabor";
             lblSabor.Size = new Size(92, 15);
             lblSabor.TabIndex = 37;
@@ -226,7 +235,7 @@
             // 
             // txtCor
             // 
-            txtCor.Location = new Point(438, 174);
+            txtCor.Location = new Point(436, 175);
             txtCor.Margin = new Padding(3, 2, 3, 2);
             txtCor.Name = "txtCor";
             txtCor.Size = new Size(110, 23);
@@ -235,7 +244,8 @@
             // lblMarca
             // 
             lblMarca.AutoSize = true;
-            lblMarca.Location = new Point(443, 98);
+            lblMarca.BackColor = Color.Transparent;
+            lblMarca.Location = new Point(436, 95);
             lblMarca.Name = "lblMarca";
             lblMarca.Size = new Size(94, 15);
             lblMarca.TabIndex = 39;
@@ -243,7 +253,7 @@
             // 
             // txtTipo
             // 
-            txtTipo.Location = new Point(443, 115);
+            txtTipo.Location = new Point(436, 112);
             txtTipo.Margin = new Padding(3, 2, 3, 2);
             txtTipo.Name = "txtTipo";
             txtTipo.Size = new Size(110, 23);
@@ -252,7 +262,8 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(430, 50);
+            label1.BackColor = Color.Transparent;
+            label1.Location = new Point(436, 38);
             label1.Name = "label1";
             label1.Size = new Size(128, 15);
             label1.TabIndex = 41;
@@ -260,7 +271,7 @@
             // 
             // txtTamanho
             // 
-            txtTamanho.Location = new Point(438, 68);
+            txtTamanho.Location = new Point(436, 55);
             txtTamanho.Margin = new Padding(3, 2, 3, 2);
             txtTamanho.Name = "txtTamanho";
             txtTamanho.Size = new Size(110, 23);
@@ -269,7 +280,7 @@
             // cmbTipo
             // 
             cmbTipo.FormattingEnabled = true;
-            cmbTipo.Location = new Point(232, 50);
+            cmbTipo.Location = new Point(177, 47);
             cmbTipo.Margin = new Padding(3, 2, 3, 2);
             cmbTipo.Name = "cmbTipo";
             cmbTipo.Size = new Size(133, 23);
@@ -278,7 +289,7 @@
             // 
             // CodPote
             // 
-            CodPote.Location = new Point(-7, 327);
+            CodPote.Location = new Point(-6, 350);
             CodPote.Margin = new Padding(3, 2, 3, 2);
             CodPote.Name = "CodPote";
             CodPote.ReadOnly = true;
@@ -289,7 +300,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(719, 446);
+            BackgroundImage = Properties.Resources.background1;
+            ClientSize = new Size(684, 461);
             Controls.Add(CodPote);
             Controls.Add(cmbTipo);
             Controls.Add(txtTamanho);
@@ -311,6 +323,7 @@
             Controls.Add(cmbTamanho);
             Margin = new Padding(3, 2, 3, 2);
             Name = "Pote";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Pote";
             Load += Pote_Load;
             grpCores.ResumeLayout(false);

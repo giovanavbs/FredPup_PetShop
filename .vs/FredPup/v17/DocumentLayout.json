@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|c:\\users\\3ds\\source\\repos\\fredpup_petshop\\fredpup\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\fredpup\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|c:\\users\\3ds\\source\\repos\\fredpup_petshop\\fredpup\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\fredpup\\pote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|c:\\users\\3ds\\source\\repos\\fredpup_petshop\\fredpup\\pote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\pote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\fredpup\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|c:\\users\\3ds\\source\\repos\\fredpup_petshop\\fredpup\\pote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\pote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|c:\\users\\3ds\\source\\repos\\fredpup_petshop\\fredpup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|c:\\users\\3ds\\source\\repos\\fredpup_petshop\\fredpup\\racao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\racao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|c:\\users\\3ds\\source\\repos\\fredpup_petshop\\fredpup\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -27,28 +27,8 @@
       "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|c:\\users\\3ds\\source\\repos\\fredpup_petshop\\fredpup\\racao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\racao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\fredpup\\racao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\racao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|c:\\users\\3ds\\source\\repos\\fredpup_petshop\\fredpup\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\fredpup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|c:\\users\\3ds\\source\\repos\\fredpup_petshop\\fredpup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|c:\\users\\3ds\\source\\repos\\fredpup_petshop\\fredpup\\pote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\pote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|c:\\users\\3ds\\source\\repos\\fredpup_petshop\\fredpup\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE4468E7-C7AF-4EA7-8993-424F98906FAD}|FredPup\\FredPup.csproj|solutionrelative:fredpup\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,91 +46,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Cliente.cs",
-              "RelativeDocumentMoniker": "FredPup\\Cliente.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Cliente.cs",
-              "RelativeToolTip": "FredPup\\Cliente.cs",
-              "ViewState": "AQIAACwBAAAAAAAAAADgvzQBAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Login.cs",
+              "RelativeDocumentMoniker": "FredPup\\Login.cs",
+              "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Login.cs [Projeto]",
+              "RelativeToolTip": "FredPup\\Login.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T01:38:06.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T18:59:01.145Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Racao.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Racao.cs",
+              "RelativeDocumentMoniker": "FredPup\\Racao.cs",
+              "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Racao.cs [Projeto]",
+              "RelativeToolTip": "FredPup\\Racao.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:43:15.709Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pote.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Pote.cs",
+              "RelativeDocumentMoniker": "FredPup\\Pote.cs",
+              "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Pote.cs",
+              "RelativeToolTip": "FredPup\\Pote.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:40:32.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Pote.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Pote.cs",
               "RelativeDocumentMoniker": "FredPup\\Pote.cs",
               "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Pote.cs [Projeto]",
               "RelativeToolTip": "FredPup\\Pote.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T03:00:10.149Z",
+              "WhenOpened": "2024-05-28T18:39:48.187Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Racao.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Racao.cs",
-              "RelativeDocumentMoniker": "FredPup\\Racao.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Racao.cs",
-              "RelativeToolTip": "FredPup\\Racao.cs",
-              "ViewState": "AQIAABUBAAAAAAAAAAAAABcBAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T02:04:56.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Menu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Menu.Designer.cs",
-              "RelativeDocumentMoniker": "FredPup\\Menu.Designer.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Menu.Designer.cs",
-              "RelativeToolTip": "FredPup\\Menu.Designer.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAqwIAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T01:44:08.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Menu.cs",
-              "RelativeDocumentMoniker": "FredPup\\Menu.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Menu.cs",
-              "RelativeToolTip": "FredPup\\Menu.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBcAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T01:45:28.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Menu.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Menu.cs",
               "RelativeDocumentMoniker": "FredPup\\Menu.cs",
               "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Menu.cs [Projeto]",
               "RelativeToolTip": "FredPup\\Menu.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T03:08:24.437Z",
+              "WhenOpened": "2024-05-28T18:39:23.107Z",
               "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Conexao.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Conexao.cs",
-              "RelativeDocumentMoniker": "FredPup\\Conexao.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Conexao.cs",
-              "RelativeToolTip": "FredPup\\Conexao.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAB3AAAA",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Cliente.cs",
+              "RelativeDocumentMoniker": "FredPup\\Cliente.cs",
+              "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Cliente.cs",
+              "RelativeToolTip": "FredPup\\Cliente.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAqwP4AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T01:40:22.344Z",
+              "WhenOpened": "2024-05-28T18:31:30.89Z",
               "EditorCaption": ""
             },
             {
@@ -162,58 +127,8 @@
               "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Cliente.cs [Projeto]",
               "RelativeToolTip": "FredPup\\Cliente.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T01:36:34.36Z",
+              "WhenOpened": "2024-05-28T18:31:20.624Z",
               "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Racao.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Racao.cs",
-              "RelativeDocumentMoniker": "FredPup\\Racao.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Racao.cs [Projeto]",
-              "RelativeToolTip": "FredPup\\Racao.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T03:02:25.312Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Pote.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Pote.cs",
-              "RelativeDocumentMoniker": "FredPup\\Pote.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Pote.cs",
-              "RelativeToolTip": "FredPup\\Pote.cs",
-              "ViewState": "AQIAAAoBAAAAAAAAAAAAABEBAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T02:32:45.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Login.cs",
-              "RelativeDocumentMoniker": "FredPup\\Login.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Login.cs [Projeto]",
-              "RelativeToolTip": "FredPup\\Login.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T01:32:37.324Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Login.cs",
-              "RelativeDocumentMoniker": "FredPup\\Login.cs",
-              "ToolTip": "C:\\Users\\3ds\\source\\repos\\FredPup_PetShop\\FredPup\\Login.cs",
-              "RelativeToolTip": "FredPup\\Login.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAACEAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T03:38:02.782Z",
-              "EditorCaption": ""
             }
           ]
         }
