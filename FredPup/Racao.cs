@@ -183,7 +183,7 @@ namespace FredPup
 
                 }
             }
-    }
+        }
 
         private void btnSalvar_Click(object sender, EventArgs e)
         {
@@ -261,7 +261,7 @@ namespace FredPup
                 txtMarca.Text = dgv_Racao.SelectedRows[0].Cells[3].Value.ToString();
                 txtTotal.Text = dgv_Racao.SelectedRows[0].Cells[4].Value.ToString();
                 con.DesConnectarBD();
-            }  
+            }
             catch (Exception erro)
             {
                 MessageBox.Show(erro.Message);
@@ -302,6 +302,11 @@ namespace FredPup
                 dgv_Racao.DataSource = null;
 
             }
+        }
+
+        private void lblPesquisar_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

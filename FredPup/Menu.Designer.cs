@@ -44,18 +44,18 @@
             pnMenu.Controls.Add(btnPotes);
             pnMenu.Controls.Add(btnSair);
             pnMenu.Controls.Add(btnCliente);
-            pnMenu.Location = new Point(4, 3);
-            pnMenu.Margin = new Padding(4);
+            pnMenu.Location = new Point(5, 4);
+            pnMenu.Margin = new Padding(5, 5, 5, 5);
             pnMenu.Name = "pnMenu";
-            pnMenu.Size = new Size(155, 500);
+            pnMenu.Size = new Size(177, 500);
             pnMenu.TabIndex = 0;
             // 
             // btnRacao
             // 
-            btnRacao.Location = new Point(24, 93);
-            btnRacao.Margin = new Padding(4);
+            btnRacao.Location = new Point(27, 124);
+            btnRacao.Margin = new Padding(5, 5, 5, 5);
             btnRacao.Name = "btnRacao";
-            btnRacao.Size = new Size(108, 56);
+            btnRacao.Size = new Size(123, 75);
             btnRacao.TabIndex = 4;
             btnRacao.Text = "RAÇÃO";
             btnRacao.UseVisualStyleBackColor = true;
@@ -63,10 +63,10 @@
             // 
             // btnPotes
             // 
-            btnPotes.Location = new Point(24, 157);
-            btnPotes.Margin = new Padding(4);
+            btnPotes.Location = new Point(27, 209);
+            btnPotes.Margin = new Padding(5, 5, 5, 5);
             btnPotes.Name = "btnPotes";
-            btnPotes.Size = new Size(108, 56);
+            btnPotes.Size = new Size(123, 75);
             btnPotes.TabIndex = 3;
             btnPotes.Text = "POTES";
             btnPotes.UseVisualStyleBackColor = true;
@@ -76,10 +76,10 @@
             // 
             btnSair.BackColor = Color.Transparent;
             btnSair.FlatStyle = FlatStyle.Flat;
-            btnSair.Location = new Point(24, 422);
-            btnSair.Margin = new Padding(4);
+            btnSair.Location = new Point(27, 405);
+            btnSair.Margin = new Padding(5, 5, 5, 5);
             btnSair.Name = "btnSair";
-            btnSair.Size = new Size(108, 53);
+            btnSair.Size = new Size(123, 71);
             btnSair.TabIndex = 2;
             btnSair.Text = "SAIR";
             btnSair.UseVisualStyleBackColor = false;
@@ -87,10 +87,10 @@
             // 
             // btnCliente
             // 
-            btnCliente.Location = new Point(24, 29);
-            btnCliente.Margin = new Padding(4);
+            btnCliente.Location = new Point(27, 39);
+            btnCliente.Margin = new Padding(5, 5, 5, 5);
             btnCliente.Name = "btnCliente";
-            btnCliente.Size = new Size(108, 56);
+            btnCliente.Size = new Size(123, 75);
             btnCliente.TabIndex = 0;
             btnCliente.Text = "CLIENTE";
             btnCliente.UseVisualStyleBackColor = true;
@@ -100,20 +100,20 @@
             // 
             pnConteudo.BackColor = SystemColors.ButtonHighlight;
             pnConteudo.BackgroundImage = (Image)resources.GetObject("pnConteudo.BackgroundImage");
-            pnConteudo.Location = new Point(166, 3);
-            pnConteudo.Margin = new Padding(4);
+            pnConteudo.Location = new Point(190, 4);
+            pnConteudo.Margin = new Padding(5, 5, 5, 5);
             pnConteudo.Name = "pnConteudo";
             pnConteudo.Size = new Size(700, 500);
             pnConteudo.TabIndex = 1;
             // 
             // Menu
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(867, 507);
+            ClientSize = new Size(890, 509);
             Controls.Add(pnConteudo);
             Controls.Add(pnMenu);
-            Margin = new Padding(4);
+            Margin = new Padding(5, 5, 5, 5);
             Name = "Menu";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Menu";

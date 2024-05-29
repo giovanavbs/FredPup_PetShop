@@ -50,10 +50,10 @@
             // 
             // btnNovo
             // 
-            btnNovo.Location = new Point(112, 392);
-            btnNovo.Margin = new Padding(4);
+            btnNovo.Location = new Point(105, 390);
+            btnNovo.Margin = new Padding(5, 5, 5, 5);
             btnNovo.Name = "btnNovo";
-            btnNovo.Size = new Size(88, 46);
+            btnNovo.Size = new Size(101, 61);
             btnNovo.TabIndex = 0;
             btnNovo.Text = "NOVO";
             btnNovo.UseVisualStyleBackColor = true;
@@ -63,39 +63,39 @@
             // 
             lblEmail.AutoSize = true;
             lblEmail.BackColor = Color.Transparent;
-            lblEmail.Location = new Point(118, 126);
-            lblEmail.Margin = new Padding(4, 0, 4, 0);
+            lblEmail.Location = new Point(81, 82);
+            lblEmail.Margin = new Padding(5, 0, 5, 0);
             lblEmail.Name = "lblEmail";
-            lblEmail.Size = new Size(44, 15);
+            lblEmail.Size = new Size(54, 20);
             lblEmail.TabIndex = 1;
             lblEmail.Text = "EMAIL:";
             // 
             // picImage
             // 
-            picImage.Location = new Point(489, 76);
-            picImage.Margin = new Padding(4);
+            picImage.Location = new Point(478, 23);
+            picImage.Margin = new Padding(5, 5, 5, 5);
             picImage.Name = "picImage";
-            picImage.Size = new Size(116, 124);
+            picImage.Size = new Size(133, 165);
             picImage.TabIndex = 2;
             picImage.TabStop = false;
             // 
             // dgvCliente
             // 
             dgvCliente.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvCliente.Location = new Point(106, 264);
-            dgvCliente.Margin = new Padding(4);
+            dgvCliente.Location = new Point(57, 260);
+            dgvCliente.Margin = new Padding(5, 5, 5, 5);
             dgvCliente.Name = "dgvCliente";
             dgvCliente.RowHeadersWidth = 51;
-            dgvCliente.Size = new Size(447, 110);
+            dgvCliente.Size = new Size(593, 96);
             dgvCliente.TabIndex = 3;
             dgvCliente.MouseDoubleClick += dgvCliente_MouseDoubleClick;
             // 
             // btnSalvar
             // 
-            btnSalvar.Location = new Point(218, 392);
-            btnSalvar.Margin = new Padding(4);
+            btnSalvar.Location = new Point(226, 390);
+            btnSalvar.Margin = new Padding(5, 5, 5, 5);
             btnSalvar.Name = "btnSalvar";
-            btnSalvar.Size = new Size(88, 46);
+            btnSalvar.Size = new Size(101, 61);
             btnSalvar.TabIndex = 4;
             btnSalvar.Text = "SALVAR";
             btnSalvar.UseVisualStyleBackColor = true;
@@ -103,10 +103,10 @@
             // 
             // btnALterar
             // 
-            btnALterar.Location = new Point(329, 392);
-            btnALterar.Margin = new Padding(4);
+            btnALterar.Location = new Point(353, 390);
+            btnALterar.Margin = new Padding(5, 5, 5, 5);
             btnALterar.Name = "btnALterar";
-            btnALterar.Size = new Size(88, 46);
+            btnALterar.Size = new Size(101, 61);
             btnALterar.TabIndex = 5;
             btnALterar.Text = "ALTERAR";
             btnALterar.UseVisualStyleBackColor = true;
@@ -114,10 +114,10 @@
             // 
             // btnEcluir
             // 
-            btnEcluir.Location = new Point(438, 392);
-            btnEcluir.Margin = new Padding(4);
+            btnEcluir.Location = new Point(478, 390);
+            btnEcluir.Margin = new Padding(5, 5, 5, 5);
             btnEcluir.Name = "btnEcluir";
-            btnEcluir.Size = new Size(88, 46);
+            btnEcluir.Size = new Size(101, 61);
             btnEcluir.TabIndex = 6;
             btnEcluir.Text = "EXCLUIR";
             btnEcluir.UseVisualStyleBackColor = true;
@@ -125,10 +125,10 @@
             // 
             // brnCarregar
             // 
-            brnCarregar.Location = new Point(489, 202);
-            brnCarregar.Margin = new Padding(4);
+            brnCarregar.Location = new Point(478, 191);
+            brnCarregar.Margin = new Padding(5, 5, 5, 5);
             brnCarregar.Name = "brnCarregar";
-            brnCarregar.Size = new Size(116, 26);
+            brnCarregar.Size = new Size(133, 35);
             brnCarregar.TabIndex = 7;
             brnCarregar.Text = "carregar...";
             brnCarregar.UseVisualStyleBackColor = true;
@@ -136,56 +136,56 @@
             // 
             // txtEmail
             // 
-            txtEmail.Location = new Point(191, 119);
-            txtEmail.Margin = new Padding(4);
+            txtEmail.Location = new Point(164, 73);
+            txtEmail.Margin = new Padding(5, 5, 5, 5);
             txtEmail.Name = "txtEmail";
-            txtEmail.Size = new Size(197, 23);
+            txtEmail.Size = new Size(225, 27);
             txtEmail.TabIndex = 9;
             // 
             // txtTelefone
             // 
-            txtTelefone.Location = new Point(191, 166);
-            txtTelefone.Margin = new Padding(4);
+            txtTelefone.Location = new Point(164, 135);
+            txtTelefone.Margin = new Padding(5, 5, 5, 5);
             txtTelefone.Name = "txtTelefone";
-            txtTelefone.Size = new Size(197, 23);
+            txtTelefone.Size = new Size(225, 27);
             txtTelefone.TabIndex = 11;
             // 
             // lblTelefone
             // 
             lblTelefone.AutoSize = true;
             lblTelefone.BackColor = Color.Transparent;
-            lblTelefone.Location = new Point(118, 174);
-            lblTelefone.Margin = new Padding(4, 0, 4, 0);
+            lblTelefone.Location = new Point(81, 146);
+            lblTelefone.Margin = new Padding(5, 0, 5, 0);
             lblTelefone.Name = "lblTelefone";
-            lblTelefone.Size = new Size(61, 15);
+            lblTelefone.Size = new Size(77, 20);
             lblTelefone.TabIndex = 10;
             lblTelefone.Text = "TELEFONE";
             // 
             // txtNome
             // 
-            txtNome.Location = new Point(191, 79);
-            txtNome.Margin = new Padding(4);
+            txtNome.Location = new Point(164, 19);
+            txtNome.Margin = new Padding(5, 5, 5, 5);
             txtNome.Name = "txtNome";
-            txtNome.Size = new Size(197, 23);
+            txtNome.Size = new Size(225, 27);
             txtNome.TabIndex = 15;
             // 
             // lblNome
             // 
             lblNome.AutoSize = true;
             lblNome.BackColor = Color.Transparent;
-            lblNome.Location = new Point(118, 82);
-            lblNome.Margin = new Padding(4, 0, 4, 0);
+            lblNome.Location = new Point(81, 23);
+            lblNome.Margin = new Padding(5, 0, 5, 0);
             lblNome.Name = "lblNome";
-            lblNome.Size = new Size(45, 15);
+            lblNome.Size = new Size(55, 20);
             lblNome.TabIndex = 14;
             lblNome.Text = "NOME:";
             // 
             // txtPesquisar
             // 
-            txtPesquisar.Location = new Point(272, 223);
-            txtPesquisar.Margin = new Padding(4);
+            txtPesquisar.Location = new Point(257, 211);
+            txtPesquisar.Margin = new Padding(5, 5, 5, 5);
             txtPesquisar.Name = "txtPesquisar";
-            txtPesquisar.Size = new Size(116, 23);
+            txtPesquisar.Size = new Size(132, 27);
             txtPesquisar.TabIndex = 16;
             txtPesquisar.TextChanged += txtPesquisar_TextChanged_1;
             // 
@@ -193,25 +193,25 @@
             // 
             lblPesquisar.AutoSize = true;
             lblPesquisar.BackColor = Color.Transparent;
-            lblPesquisar.Location = new Point(181, 231);
-            lblPesquisar.Margin = new Padding(4, 0, 4, 0);
+            lblPesquisar.Location = new Point(153, 222);
+            lblPesquisar.Margin = new Padding(5, 0, 5, 0);
             lblPesquisar.Name = "lblPesquisar";
-            lblPesquisar.Size = new Size(70, 15);
+            lblPesquisar.Size = new Size(88, 20);
             lblPesquisar.TabIndex = 17;
             lblPesquisar.Text = "PESQUISAR:";
             // 
             // txtCodCli
             // 
-            txtCodCli.Location = new Point(-1, -5);
-            txtCodCli.Margin = new Padding(4);
+            txtCodCli.Location = new Point(-1, -7);
+            txtCodCli.Margin = new Padding(5, 5, 5, 5);
             txtCodCli.Name = "txtCodCli";
             txtCodCli.ReadOnly = true;
-            txtCodCli.Size = new Size(10, 23);
+            txtCodCli.Size = new Size(11, 27);
             txtCodCli.TabIndex = 18;
             // 
             // Cliente
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.background;
             ClientSize = new Size(700, 500);
@@ -232,7 +232,7 @@
             Controls.Add(lblEmail);
             Controls.Add(btnNovo);
             FormBorderStyle = FormBorderStyle.None;
-            Margin = new Padding(4);
+            Margin = new Padding(5, 5, 5, 5);
             Name = "Cliente";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Cliente";

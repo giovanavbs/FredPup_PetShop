@@ -40,9 +40,9 @@
             // 
             lblEmail.AutoSize = true;
             lblEmail.BackColor = Color.Transparent;
-            lblEmail.Location = new Point(50, 173);
+            lblEmail.Location = new Point(57, 231);
             lblEmail.Name = "lblEmail";
-            lblEmail.Size = new Size(41, 15);
+            lblEmail.Size = new Size(51, 20);
             lblEmail.TabIndex = 0;
             lblEmail.Text = "EMAIL";
             // 
@@ -50,35 +50,32 @@
             // 
             lblSenha.AutoSize = true;
             lblSenha.BackColor = Color.Transparent;
-            lblSenha.Location = new Point(50, 217);
+            lblSenha.Location = new Point(57, 289);
             lblSenha.Name = "lblSenha";
-            lblSenha.Size = new Size(45, 15);
+            lblSenha.Size = new Size(57, 20);
             lblSenha.TabIndex = 1;
             lblSenha.Text = "SENHA";
             // 
             // txtEmail
             // 
-            txtEmail.Location = new Point(131, 171);
-            txtEmail.Margin = new Padding(3, 2, 3, 2);
+            txtEmail.Location = new Point(150, 228);
             txtEmail.Name = "txtEmail";
-            txtEmail.Size = new Size(110, 23);
+            txtEmail.Size = new Size(125, 27);
             txtEmail.TabIndex = 2;
             // 
             // txtSenha
             // 
-            txtSenha.Location = new Point(131, 217);
-            txtSenha.Margin = new Padding(3, 2, 3, 2);
+            txtSenha.Location = new Point(150, 289);
             txtSenha.Name = "txtSenha";
             txtSenha.PasswordChar = '*';
-            txtSenha.Size = new Size(110, 23);
+            txtSenha.Size = new Size(125, 27);
             txtSenha.TabIndex = 3;
             // 
             // btnLogin
             // 
-            btnLogin.Location = new Point(93, 267);
-            btnLogin.Margin = new Padding(3, 2, 3, 2);
+            btnLogin.Location = new Point(106, 356);
             btnLogin.Name = "btnLogin";
-            btnLogin.Size = new Size(82, 22);
+            btnLogin.Size = new Size(94, 29);
             btnLogin.TabIndex = 4;
             btnLogin.Text = "LOGIN";
             btnLogin.UseVisualStyleBackColor = true;
@@ -86,16 +83,15 @@
             // 
             // login
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
-            ClientSize = new Size(284, 361);
+            ClientSize = new Size(325, 405);
             Controls.Add(btnLogin);
             Controls.Add(txtSenha);
             Controls.Add(txtEmail);
             Controls.Add(lblSenha);
             Controls.Add(lblEmail);
-            Margin = new Padding(3, 2, 3, 2);
             Name = "login";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "login";
